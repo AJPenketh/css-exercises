@@ -1,0 +1,21 @@
+
+.code {
+    background-color: #ffcccb;
+    font-family: Verdana, 'DejaVu Sans' sans-serif;
+
+}
+
+.newrule {
+    font-size: 24px;
+}
+
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
